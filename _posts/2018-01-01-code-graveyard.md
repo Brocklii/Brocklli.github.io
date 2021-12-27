@@ -4,7 +4,7 @@ layout: post
 excerpt_separator: <!--more-->
 ---
 
-This is my collection of all my old coding projects from college that were so small or long ago that I can't really remember them too much. Because of this they will likely have no description, but some may have a small description because I was really into the project or it made me cry and gave me headaches, haha! Feel free to browse around and copy paste them into your IDE or text editor to play around with and try to get it running. I make no promises these work out of the box because the Computer Science Department was very particular, they wanted things to run on their machines and for their classes. Anyways, I hope you enjoy :)
+This is my collection of all my old coding projects from college that were so small or long ago that I can't really remember them too much. Because of this they will likely have no description, but some may have a small description because I was really into the project or it made me cry and gave me headaches, haha! Feel free to browse around and copy paste them into your IDE or text editor to play around with and maybe try to get it running. I make no promises these work out of the box because the Computer Science Department was very particular, they wanted things to run on their machines and for their classes. Anyways, I hope you enjoy :) This is more a box of memories for me and is a lot to go through so this will probably always be a work in progress and will likely never be finished with mostly missing information. But feel free to browse around and if there's something you like don't hesitate to reach out!
 
 <!--more-->
 
@@ -17,9 +17,6 @@ Below is code that belongs to me that I turned in for classes. They currently ar
 >2. I have since graduated.
 
 It may be possible for you to request to see the code yourself as someone not attending CSU, looking to hire me, or a friend looking to satisfy your curiosity. Thank you for understanding :)
-
-**Liability Waiver**
----> I'm not responsible for YOUR academic dishonesty if you choose to hack my files and website to find these coding projects because I refuse to remove the links due to the sheer amount of work it would take to do and undue such actions. I will just hide the links themselves.
 
 R.I.P. >Project Name here<
 ==========================
