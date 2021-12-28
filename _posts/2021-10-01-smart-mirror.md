@@ -2,6 +2,6 @@
 title:  "Smart Mirror"
 layout: post
 ---
-*Coming Fall 2021*
+*Coming SOON*
 
 This project is currently in progess.
