@@ -37,7 +37,7 @@ CSU Esports LOGO 2020
 CLIPS
 =====
 
-The following are some of my best plays from fakes and doubles to demos and whacky hits with some funny clips sprinkled in as well. I've got 44 clips for you to get goosebumps or laugh at if you have the time :) I will link the five of my favorites and put the rest on [here](/clips/) to help this page load faster. You can also check out my profile on gif your game [here.](https://www.gifyourgame.com/u/brockli)
+The following are some of my best plays from fakes and doubles to demos and whacky hits with some funny clips sprinkled in as well. I've got plenty of clips for you to enjoy or laugh at if you have the time :) I will link the five of my favorites and put the rest on [here](/clips/) to help this page load faster. You can also check out my profile on gif your game [here.](https://www.gifyourgame.com/u/brockli)
 
 Clip 1
 
