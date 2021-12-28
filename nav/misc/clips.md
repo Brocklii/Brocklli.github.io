@@ -6,6 +6,9 @@ permalink: /clips/
 
 The following are some of my best plays from fakes and doubles to demos and whacky hits with some funny clips sprinkled in as well. I've got 44 clips for you to get goosebumps or laugh at if you have the time :)
 
+[Test](https://www.gifyourgame.com/u/brockli/YRPSDs6zmd)
+![test](https://www.gifyourgame.com/u/brockli/YRPSDs6zmd)
+
 Clip 6
 
 ![clip6](/assets/videos/clip6.mp4)
