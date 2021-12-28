@@ -16,7 +16,7 @@ I adopted Ayana through my local rescue shelter Fort Collins Cat Rescue which ha
 Unfortunately, Kitty passed away on 9/1/21. She lived a great life and spent the last few years of her life in my parents’ new home. It is a very beautiful place with a nice backyard and lawn chairs for her to sunbath, though she preferred the concrete. I guess it like a cold pillow effect. It was a sad day and I had to say bye over facetime. I could hardly choke up the words to say bye. But I let her know how beautiful she was and gave her a few last meows and kisses. She will always be remembered and loved. I don’t know how to handle emotion and so I was thankful I found out in front of my sister and at the time girlfriend. I wasn’t originally going to say bye as awful as that sounds because I knew I wouldn’t be able to. As I said I was barely able to utter a coherent sentence in between silent sob. But thankfully they encouraged me to call back and say bye, being as twistedly sad and beautiful as it was. 
 
 In loving memory of Tigress a.k.a. Kitty/Kitten
-(click [here](/assets/videos/kittyMemory.mov) for sound)
+(click [here](/assets/videos/kittyMemory.mov) for the sound of her purr 😻)
 
 ![kittyMemory](/assets/videos/kittyMemory.mov)
 
