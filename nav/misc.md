@@ -27,6 +27,7 @@ Welcome to the rabbit hole of whatever else I want to showcase! I am running out
     </header>
     The following are some of my best plays from fakes and doubles to demos and whacky hits with some funny clips sprinkled in as well. I've got 44 clips for you to get goosebumps or laugh at if you have the time :) Here is one of my all-time favorites:
 <!--     <a href="https://www.Brockkaess.com/assets/videos/clip30.mp4">Clip 1</a> -->
+    
     <iframe width="560" height="315" src="https://www.Brockkaess.com/assets/videos/clip30.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <div class="more"><a href="https://www.brockkaess.com/clips/">read more</a></div>
 </article>
