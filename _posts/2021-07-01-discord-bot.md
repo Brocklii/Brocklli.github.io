@@ -8,6 +8,6 @@ My discord bot is named Cybork a.k.a. Brockli Jr. While the bork comes from the 
 
 <!--more-->
 
-Meet [Cybork](/../assets/images/Cybork), a playfully dormant bot. This bot was able to handle simple and more advanced commands, assign roles and permissions, messaging embeds, clearing message history, kicking, banning, muting, and timing out users. The bot could also assign roles via message reactions and most importantly it was a music bot.
+Meet [Cybork](/assets/images/Cybork.png), a playfully dormant bot. This bot was able to handle simple and more advanced commands, assign roles and permissions, messaging embeds, clearing message history, kicking, banning, muting, and timing out users. The bot could also assign roles via message reactions and most importantly it was a music bot.
 
 In the long term I was not going to be able to keep up with the maintenance of this bot. The functionality and plugins for the music part of this application was always changing and crashing. The compatibility issues came by frequently and so sadly this is more of a one and done project. I intended to have this run on a local server I would set up on a raspberry pi so I could use my own bot with my own features without having to pay for those on the upgraded versions. Though I now know why they wanted money for "bass boost" or "precise volume control" because this project was difficult even with a video tutorial. And again, the long-term upkeep of the project to keep it running and playing music when you want was unfathomable.
