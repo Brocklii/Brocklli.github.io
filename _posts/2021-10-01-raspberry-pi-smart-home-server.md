@@ -1,5 +1,5 @@
 ---
-title:  "Smart Mirror"
+title:  "Raspberry Pi Smart Home Server"
 layout: post
 ---
 *Coming SOON*
