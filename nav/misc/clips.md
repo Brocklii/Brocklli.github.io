@@ -6,6 +6,8 @@ permalink: /clips/
 
 The following are some of my best plays from fakes and doubles to demos and whacky hits with some funny clips sprinkled in as well. I've got 44 clips for you to get goosebumps or laugh at if you have the time :)
 
+*(Sidenote: There's a weird glitch last I checked in which the link shows a very small image of the video. just click it and it will resize to a proper percent of the screen and start playing :)*
+
 [Clip 6](/assets/videos/clip6.mp4)
 
 [clip7](/assets/videos/clip7.mp4)
