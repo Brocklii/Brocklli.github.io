@@ -1,5 +1,5 @@
 ---
-title:  "Raspberry Pi Smart Home Server"
+title:  "Raspberry Pi Smart Home Servers"
 layout: post
 ---
 *Coming SOON*
