@@ -42,47 +42,47 @@ The following are some of my best plays from fakes and doubles to demos and whac
 **TOP PLAYS**
 =============
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip8.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip8.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip10.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip10.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip12.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip12.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip19.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip19.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip22.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip22.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip23.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip23.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip30.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip30.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/clip34.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:90%; height:30vw;" src="https://www.Brockkaess.com/assets/videos/top5/topplays/clip34.mp4" title="GYG video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **DOUBLE TOUCHES**
 ==================
 
-[Clip 1](/assets/videos/clip1.mp4)
+[Clip 1](/assets/videos/top5/doubles/clip1.mp4)
 
-[Clip 2](/assets/videos/clip17.mp4)
+[Clip 2](/assets/videos/top5/doubles/clip17.mp4)
 
-[Clip 3](/assets/videos/clip27.mp4)
+[Clip 3](/assets/videos/top5/doubles/clip27.mp4)
 
-[Clip 4](/assets/videos/clip28.mp4)
+[Clip 4](/assets/videos/top5/doubles/clip28.mp4)
 
-[Clip 5](/assets/videos/clip32.mp4)
+[Clip 5](/assets/videos/top5/doubles/clip32.mp4)
 
 **FAKES**
 =========
 
-[Clip 1](/assets/videos/clip6.mp4)
+[Clip 1](/assets/videos/top5/fakes/clip6.mp4)
 
-[Clip 2](/assets/videos/clip11.mp4)
+[Clip 2](/assets/videos/top5/fakes/clip11.mp4)
 
 **FUNNY**
 =========
 
-[Clip 1](/assets/videos/clip35.mp4)
+[Clip 1](/assets/videos/top5/funny/clip35.mp4)
 
-[Clip 2](/assets/videos/clip31.mp4)
+[Clip 2](/assets/videos/top5/funny/clip31.mp4)
 
 <!-- {% include embed.html url="" %} -->
