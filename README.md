@@ -7,7 +7,7 @@ redirect_from:
 ---
 ## Brock Kaess
 
-<img src="/assets/images/Headshot.JPG" style="width:30%; height:12vw;"/>
+<img src="/assets/images/Headshot.JPG" style="width:30%; height:13vw;"/>
 
 Hello! My name is Brock Kaess, and I am a software engineer specializing in machine learning and artificial intelligence with a minor in mathematics. I'm currently pursuing my bachelor’s in computer science at Colorado State University and will be graduating in Fall 2022. This website is all about me as a professional with a touch of personal insights and hobbies.
 
