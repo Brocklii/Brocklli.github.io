@@ -83,6 +83,6 @@ The following are some of my best plays from fakes and doubles to demos and whac
 
 [Clip 1](/assets/videos/top5/funny/clip35.mp4)
 
-[Clip 2](/assets/videos/top5/funny/clip31.mp4)
+[Clip 2](/assets/videos/clip31.mp4)
 
 <!-- {% include embed.html url="" %} -->
