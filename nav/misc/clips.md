@@ -10,38 +10,38 @@ The following are some of my best plays from fakes and doubles to demos and whac
 
 [Clip 1](/assets/videos/clip2.mp4)
 
-[clip2](/assets/videos/clip3.mp4)
+[Clip 2](/assets/videos/clip3.mp4)
 
-[clip3](/assets/videos/clip4.mp4)
+[Clip 3](/assets/videos/clip4.mp4)
 
-[clip4](/assets/videos/clip5.mp4)
+[Clip 4](/assets/videos/clip5.mp4)
 
-[clip5](/assets/videos/clip7.mp4)
+[Clip 5](/assets/videos/clip7.mp4)
 
-[clip6](/assets/videos/clip9.mp4)
+[Clip 6](/assets/videos/clip9.mp4)
 
-[clip7](/assets/videos/clip13.mp4)
+[Clip 7](/assets/videos/clip13.mp4)
 
-[clip8](/assets/videos/clip14.mp4)
+[Clip 8](/assets/videos/clip14.mp4)
 
-[clip9](/assets/videos/clip15.mp4)
+[Clip 9](/assets/videos/clip15.mp4)
 
-[clip10](/assets/videos/clip16.mp4)
+[Clip 10](/assets/videos/clip16.mp4)
 
-[clip11](/assets/videos/clip18.mp4)
+[Clip 11](/assets/videos/clip18.mp4)
 
-[clip12](/assets/videos/clip20.mp4)
+[Clip 12](/assets/videos/clip20.mp4)
 
-[clip13](/assets/videos/clip21.mp4)
+[Clip 13](/assets/videos/clip21.mp4)
 
-[clip14](/assets/videos/clip24.mp4)
+[Clip 14](/assets/videos/clip24.mp4)
 
-[clip15](/assets/videos/clip25.mp4)
+[Clip 15](/assets/videos/clip25.mp4)
 
-[clip16](/assets/videos/clip26.mp4)
+[Clip 16](/assets/videos/clip26.mp4)
 
-[clip17](/assets/videos/clip29.mp4)
+[Clip 17](/assets/videos/clip29.mp4)
 
-[clip18](/assets/videos/clip31.mp4)
+[Clip 18](/assets/videos/clip31.mp4)
 
-[clip19](/assets/videos/clip33.mp4)
+[Clip 19](/assets/videos/clip33.mp4)
