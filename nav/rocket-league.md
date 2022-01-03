@@ -61,10 +61,28 @@ The following are some of my best plays from fakes and doubles to demos and whac
 **DOUBLE TOUCHES**
 ==================
 
+[Clip 1](/assets/videos/clip1.mp4)
+
+[Clip 2](/assets/videos/clip17.mp4)
+
+[Clip 3](/assets/videos/clip27.mp4)
+
+[Clip 4](/assets/videos/clip28.mp4)
+
+[Clip 5](/assets/videos/clip32.mp4)
+
 **FAKES**
 =========
 
+[Clip 1](/assets/videos/clip6.mp4)
+
+[Clip 2](/assets/videos/clip11.mp4)
+
 **FUNNY**
 =========
+
+[Clip 1](/assets/videos/clip35.mp4)
+
+[Clip 2](/assets/videos/clip31.mp4)
 
 <!-- {% include embed.html url="" %} -->
