@@ -41,18 +41,12 @@ The following are some of my best plays from fakes and doubles to demos and whac
 
 [Clip 1](/assets/videos/clip34.mp4)
 
-![clip34](/assets/videos/clip34.mp4)
 [Clip 2](/assets/videos/clip2.mp4)
 
-![clip2](/assets/videos/clip2.mp4)
 [Clip 3](/assets/videos/clip3.mp4)
 
-![clip3](/assets/videos/clip3.mp4)
 [Clip 4](/assets/videos/clip4.mp4)
 
-![clip4](/assets/videos/clip4.mp4)
 [Clip 5](/assets/videos/clip5.mp4)
-
-![clip5](/assets/videos/clip5.mp4)
 
 <!-- {% include embed.html url="" %} -->
