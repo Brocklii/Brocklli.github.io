@@ -3,7 +3,7 @@ title: "Rocket League"
 layout: page
 permalink: /rocket-league/
 ---
-I'm a Grand Champion (at my peak) in Rocket League and this is a page about my achievements as a community player, team player, and enthusiast. If you would like to track my past or current rankings and various stats you can do so [here](https://rocketleague.tracker.network/rocket-league/profile/steam/76561198200701498/overview)
+I'm a Grand Champion (at my peak) in Rocket League and this is a page about my achievements as a community player, team player, and enthusiast. If you would like to track my past or current rankings and various stats you can do so [here](https://rocketleague.tracker.network/rocket-league/profile/steam/76561198200701498/overview).
 
 ![RL](/assets/images/rl/home.jpg)
 
