@@ -37,7 +37,7 @@ EXPERIENCE
 
 |
 
-**Private Tutor** &#124; August 2020 - Current
+**Private Tutor** &#124; August 2020 - May 2021
 
 *The Tutee*
 
