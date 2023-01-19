@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:kaess2017@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:brockkaess@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/Brocklli"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/brock-kaess/"}
   - {file: "faq.md", icon: "question"}
